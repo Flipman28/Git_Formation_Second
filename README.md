@@ -1,2 +1,3 @@
 # Git_Formation_Second
-Deuxième repo pour la formation Git
+
+Deuxième repo pour la formation Git édit
