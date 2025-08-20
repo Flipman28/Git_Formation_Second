@@ -1,2 +1,2 @@
 "my second file"
-My pen is red.
+My pen is blue.
